@@ -4,7 +4,7 @@
 #
 Name     : R-RandomFieldsUtils
 Version  : 1.0.11
-Release  : 40
+Release  : 41
 URL      : https://cran.r-project.org/src/contrib/RandomFieldsUtils_1.0.11.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RandomFieldsUtils_1.0.11.tar.gz
 Summary  : Utilities for the Simulation and Analysis of Random Fields and
